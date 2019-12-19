@@ -1,9 +1,13 @@
 {
-  "name": "worker",
+  "name": "sso-worker",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sqs-consumer": "5.4.0",
+    "sso-util": "1.0.1"
   },
   "keywords": [],
   "author": "",
