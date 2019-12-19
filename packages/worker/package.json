@@ -1,6 +1,6 @@
 {
   "name": "test-sso-worker",
-  "version": "1.0.4-alpha.0",
+  "version": "1.0.5-alpha.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,5 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "8d2f54d6fd604e7876e385fcff4fba70896c1f41"
+  "gitHead": "d3022341952710d80d1da1386bd8f5a4395ba7bc"
 }
