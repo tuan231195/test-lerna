@@ -1,5 +1,5 @@
 {
-  "name": "sso-worker",
+  "name": "test-sso-worker",
   "version": "1.0.2-alpha.0",
   "main": "index.js",
   "scripts": {
@@ -7,10 +7,11 @@
   },
   "dependencies": {
     "sqs-consumer": "5.4.0",
-    "sso-util": "^1.0.2-alpha.0"
+    "test-sso-util": "^1.0.2-alpha.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "gitHead": "79aa31596f47fc7f894a71d43252b591a898bf30"
 }
