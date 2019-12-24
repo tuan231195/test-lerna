@@ -1,6 +1,6 @@
 {
   "name": "sso-util-test",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "8d2f54d6fd604e7876e385fcff4fba70896c1f41"
+  "gitHead": "77b859d5616c9e34e36c4fc5031d3ced51813c1f"
 }
