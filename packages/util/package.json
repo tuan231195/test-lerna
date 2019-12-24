@@ -1,0 +1,16 @@
+{
+  "name": "sso-util-test",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "8d2f54d6fd604e7876e385fcff4fba70896c1f41"
+}
